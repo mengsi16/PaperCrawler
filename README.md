@@ -70,4 +70,4 @@ pip install -r requirements.txt
 - 如果下载失败，会尝试后备策略（如 arXiv、CORE）。
 
 ## 许可证
-MIT License (详见 LICENSE 文件)。 
+Apache License (详见 LICENSE 文件)。 

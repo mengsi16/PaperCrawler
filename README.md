@@ -2,7 +2,7 @@
 
 ## 项目概述
 
-Paper Crawler 是一个学术论文下载工具，支持从多个来源（如 arXiv、CORE、AAAI、NeurIPS、CVF、ACM、IEEE）自动下载 PDF 文件。它使用策略模式来处理不同平台的下载逻辑，支持 httpx 和 Selenium 两种方式。
+Paper Crawler 是一个学术论文下载工具，支持从多个来源（如 arXiv、CORE、AAAI、NeurIPS、CVF、ACM、IEEE）自动下载 PDF 文件。它使用策略模式来处理不同平台的下载逻辑，支持 httpx 和 Selenium 两种方式。~~写的一坨~~。
 
 ## 项目结构
 

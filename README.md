@@ -45,7 +45,7 @@ crawler.teardown_driver()  # 关闭驱动
 
 ### 环境要求
 - Python 3.8+
-- Chrome 浏览器（与 chromedriver 版本匹配）
+- Chrome 浏览器版本指定为117
 
 ### 安装依赖
 ```bash
